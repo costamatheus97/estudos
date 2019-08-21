@@ -1,2 +1,2 @@
 # estudos
-Estudos Front-End
+Estudos sobre versionamento com git/github
