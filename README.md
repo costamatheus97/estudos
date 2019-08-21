@@ -1,2 +1,2 @@
 # estudos
-Estudos sobre versionamento com git/github
+// Estudos sobre versionamento com git/github
